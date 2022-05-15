@@ -1,2 +1,1 @@
-# help
-help for c++ function
+### help
